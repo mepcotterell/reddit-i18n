@@ -156,11 +156,11 @@ msgstr ""
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
-msgstr ""
+msgstr "はい、いいですね！"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr ""
+msgstr "まず始めに、これを読んでください。"
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
@@ -178,7 +178,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "そのためには、ログインしてください。"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
@@ -2979,7 +2979,7 @@ msgstr ""
 
 #: r2/templates/frametoolbar.html:92
 msgid "login / register"
-msgstr ""
+msgstr "ログイン・登録"
 
 #: r2/templates/frametoolbar.html:100
 msgid "new mail"
@@ -4526,7 +4526,7 @@ msgstr "コミュニティができてから%(time)s"
 
 #: r2/templates/subreddit.html:65
 msgid "unsubscribe"
-msgstr ""
+msgstr "購読をやめる"
 
 #: r2/templates/subreddit.html:86 r2/templates/subreddit.html:87
 msgid "not approved"
@@ -4892,7 +4892,7 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:228
 msgid "background color"
-msgstr ""
+msgstr "背景色"
 
 #: r2/templates/widgetdemopanel.html:232
 msgid "(e.g., FF0000 = red)"
@@ -4900,7 +4900,7 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:239
 msgid "border color"
-msgstr ""
+msgstr "枠線色"
 
 #: r2/templates/widgetdemopanel.html:249
 msgid "the code"
